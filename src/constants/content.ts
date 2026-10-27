@@ -1,4 +1,4 @@
-export const DISCLAIMER = 'Thông tin mang tính tham khảo, không thay thế việc kiểm tra văn bản pháp luật hiện hành và tư vấn phù hợp với hoàn cảnh cụ thể.'
+export const DISCLAIMER = 'Câu trả lời dựa trên văn bản luật lao động đã ban hành của Việt Nam.'
 
 export interface Suggestion {
   id: string

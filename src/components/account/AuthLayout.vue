@@ -19,7 +19,7 @@ import BrandMark from '@/components/common/BrandMark.vue'
         </p>
       </div>
       <p class="max-w-sm text-xs leading-5 text-ink-muted">
-        Thông tin mang tính tham khảo, không thay thế việc kiểm tra văn bản pháp luật hiện hành và tư vấn phù hợp với hoàn cảnh cụ thể.
+        Câu trả lời dựa trên văn bản luật lao động đã ban hành của Việt Nam.
       </p>
     </section>
     <section class="flex items-center justify-center overflow-y-auto px-4 py-8">
