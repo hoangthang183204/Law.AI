@@ -4,7 +4,7 @@ LAW.AI là giao diện web để kiểm thử mô hình AI pháp luật hiện c
 
 Frontend không chứa mô hình, không suy diễn điều luật và không tự tạo căn cứ pháp lý. Câu trả lời, nguồn tham khảo và trạng thái hiệu lực chỉ hiển thị khi backend trả về. Mỗi câu trả lời kèm dòng lưu ý:
 
-> Thông tin mang tính tham khảo, không thay thế việc kiểm tra văn bản pháp luật hiện hành và tư vấn phù hợp với hoàn cảnh cụ thể.
+> Câu trả lời dựa trên văn bản luật lao động đã ban hành của Việt Nam.
 
 ## Công nghệ
 
